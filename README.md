@@ -3,7 +3,7 @@
 
 ## 目录
 
- - (2016-10-31)[https://github.com/ziyi2/technical-weekly/blob/master/2016-10-31.md]
+ - [2016-10-31](https://github.com/ziyi2/technical-weekly/blob/master/2016-10-31.md)
   - Vue2.0 渐进式前端解决方案
   - JavaScript世界万物诞生记
   - 爬了知乎日报十多万条数据
